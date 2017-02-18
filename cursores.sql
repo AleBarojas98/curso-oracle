@@ -43,3 +43,7 @@ insert into trabajador values (2, 'Pedro', 40);
 insert into trabajador values (3, 'Juan', 35);
 insert into trabajador values (4, 'Karla', 41); 
 
+insert into nomina values(1,1,6000,40,'');
+insert into nomina values(2,2,8000,30,'');
+insert into nomina values(3,3,7000,42,'');
+insert into nomina values(4,4,10000,48,'');
